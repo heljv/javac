@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /** Класс реализует ввод с клавиатуры 
-* и применение методов класса Calculator */
+* и применение методов класса Calculator* */
 
 public class InteractRunner {
 
